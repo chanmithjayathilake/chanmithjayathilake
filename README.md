@@ -1,140 +1,310 @@
 <h1 align="center">Hi 👋, I'm Chanmith Jayathilake</h1>
+
 <h3 align="center">
-Ethical Hacking & Network Security Undergraduate | Network Engineering Enthusiast
+🚀 Ethical Hacking & Network Security Undergraduate | 🌐 Network Engineering Enthusiast | ☁️ Cloud Security Learner
 </h3>
 
----
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Network+Engineering+Enthusiast;Cyber+Security+Learner;AWS+Cloud+Explorer;Future+Cloud+Security+Engineer" />
+</p>
 
-🎓 I am a **second-year undergraduate** pursuing a **BSc (Hons) in Ethical Hacking and Network Security**
-at the **National Institute of Business Management (NIBM)**  
-(Degree awarded by **Coventry University, UK**).
-
-I have a strong foundation in **computer networking, secure infrastructure design,
-Linux system administration, and cloud computing**, supported by academic,
-practical, and leadership project experience.
-
----
-
-## 🧠 Core Interests
-- Network Engineering & Secure Infrastructure  
-- Cyber Security & Ethical Hacking  
-- Linux & Server Administration  
-- Cloud Computing (AWS)  
-- Network Monitoring & Troubleshooting  
-
----
-
-## 🛠️ Technical Skills
-
-### 🔹 Networking & Security
-- Cisco Routers & Switches configuration  
-- Static Routing, RIP, EIGRP, OSPF  
-- VLANs, Inter-VLAN Routing, Trunking  
-- ACLs, NAT, DHCP, HSRP, STP, EtherChannel  
-- Port Security, AAA Authentication  
-- SSH & Telnet Configuration  
-- IPv4 & IPv6 Networking  
-
-### 🔹 Systems & Servers
-- Linux Administration (CentOS, Ubuntu, Red Hat)  
-- Bash Shell Scripting & Cron Jobs  
-- Windows & Linux Server Administration  
-  - Active Directory  
-  - DNS, DHCP  
-  - Web & FTP Services  
-- SELinux (Basics)
-
-### 🔹 Cloud & Virtualization
-- Amazon Web Services (AWS)  
-- VMware ESXi & VMware Workstation  
-- Oracle VirtualBox  
-
----
-
-## 🧰 Languages & Tools
-<p align="left">
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="25" height="25"/>
-  </a>
-  <a href="https://aws.amazon.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="25" height="25"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="25" height="25"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="25" height="25"/>
-  </a>
-  <a href="https://www.php.net" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="25" height="25"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="25" height="25"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="25" height="25"/>
-  </a>
-  <a href="https://www.arduino.cc/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="25" height="25"/>
-  </a>
-  <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="25" height="25"/>
-  </a>
-  <a href="https://www.adobe.com/products/illustrator.html" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="25" height="25"/>
-  </a>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=blue&style=flat" />
 </p>
 
 ---
 
-## 📂 Projects
+# 👨‍💻 About Me
 
-### 🔹 Final Project – Diploma in Network Engineering (2024)
-**Role:** Project Leader  
-- Designed and implemented a secure network infrastructure  
-- Focused on routing, switching, and service availability  
+🎓 I am a **second-year undergraduate** pursuing a:
 
-### 🔹 IoT-Based Military Camp System (2025)
-**Role:** Project Leader  
-- Designed IoT-enabled monitoring infrastructure  
-- Emphasized network security and reliability  
+**BSc (Hons) in Ethical Hacking and Network Security**  
+🏛️ National Institute of Business Management (NIBM)  
+🎓 Degree awarded by **Coventry University, UK**
+
+I have a strong foundation in:
+
+- 🌐 Network Engineering
+- 🔐 Cyber Security
+- 🖥️ Linux & Server Administration
+- ☁️ Cloud Computing
+- 🏢 Secure Infrastructure Design
+
+I am passionate about designing secure, scalable, and reliable IT infrastructures while continuously improving my knowledge in **cloud computing and cybersecurity**.
+
+🎯 Career Goal:
+
+**Network Security Engineer → Cloud Security Engineer**
 
 ---
 
-## 🌱 Community & Leadership Experience
+# 🧠 Core Interests
 
-### 🌱 CSR Project – *Mada Thawaruna Mal Kakulu* (2025)
+| Domain | Focus Areas |
+|---|---|
+| 🌐 Networking | Enterprise Networks, Routing, Switching |
+| 🔐 Cyber Security | Ethical Hacking, SIEM, Secure Infrastructure |
+| ☁️ Cloud Computing | AWS, Azure, Cloud Security |
+| 🖥️ System Administration | Linux, Windows Server |
+| 📊 Monitoring | Network Monitoring & Troubleshooting |
+
+---
+
+# 🛠️ Technical Skills
+
+## 🌐 Networking & Security
+
+| Technology | Skills |
+|---|---|
+| Cisco Networking | Router & Switch Configuration |
+| Routing | Static Routing, RIP, EIGRP, OSPF |
+| Switching | VLAN, Inter-VLAN Routing, STP, EtherChannel |
+| Security | ACL, NAT, AAA Authentication |
+| Network Services | DHCP, DNS, SSH, Telnet |
+| Addressing | IPv4 & IPv6 |
+| Security Tools | pfSense, Wazuh, SIEM Concepts |
+
+---
+
+## 🖥️ Systems Administration
+
+| Platform | Skills |
+|---|---|
+| Linux | CentOS, Ubuntu, Red Hat |
+| Windows Server | Active Directory, DNS, DHCP |
+| Services | Apache, FTP, Web Services |
+| Automation | Bash Scripting, Cron Jobs |
+| Security | SELinux Fundamentals |
+
+---
+
+## ☁️ Cloud & Virtualization
+
+| Technology | Knowledge |
+|---|---|
+| AWS | EC2, S3, IAM, VPC, CloudWatch |
+| Azure | Cloud Fundamentals |
+| VMware | ESXi, Workstation |
+| Virtualization | VirtualBox |
+
+---
+
+# 🧰 Tools & Technologies
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45"/>
+
+</p>
+
+---
+
+# 🚀 Career Roadmap
+
+```
+Networking Fundamentals
+          |
+          ↓
+Linux & Server Administration
+          |
+          ↓
+Cyber Security & Ethical Hacking
+          |
+          ↓
+AWS / Azure Cloud Technologies
+          |
+          ↓
+Cloud Security Engineer ☁️🔐
+```
+
+---
+
+# 📂 Featured Projects
+
+## 🔹 Enterprise Network Infrastructure Design
+
+**Role:** Project Leader
+
+Technologies:
+
+```
+Cisco Routers & Switches
+pfSense Firewall
+VLAN Architecture
+Routing Protocols
+Network Security
+```
+
+Highlights:
+
+✅ Designed secure enterprise network infrastructure  
+✅ Implemented routing and switching solutions  
+✅ Focused on availability and security  
+✅ Created structured network documentation  
+
+---
+
+## 🔹 IoT-Based Military Camp Monitoring System
+
+**Role:** Project Leader
+
+Highlights:
+
+✅ Designed IoT-based monitoring infrastructure  
+✅ Applied security concepts  
+✅ Improved communication reliability  
+✅ Focused on scalable architecture  
+
+---
+
+# ☁️ Cloud Security Lab (Learning Project)
+
+Currently exploring:
+
+```
+AWS VPC
+    |
+IAM Security
+    |
+EC2 Deployment
+    |
+Security Groups
+    |
+Cloud Monitoring
+    |
+Cloud Security Practices
+```
+
+---
+
+# 🌱 Leadership Experience
+
+## CSR Project – Mada Thawaruna Mal Kakulu (2025)
+
 **Project Chairperson | Leo Club of NIBM**
 
-- Led a flood-relief CSR initiative for **18 school students**
-- Managed planning, budgeting (LKR 94,000), and execution
-- Delivered fully documented and transparent project outcomes  
+Achievements:
+
+✅ Led flood-relief initiative for 18 school students  
+✅ Managed planning and execution  
+✅ Handled LKR 94,000 project budget  
+✅ Maintained transparent documentation  
 
 ---
 
-## 📚 Currently Learning
-- **Red Hat System Administration I (RH124)**  
+# 📚 Currently Learning
+
+```
+☁ AWS Cloud Practitioner
+☁ Microsoft Azure Fundamentals
+🔴 Red Hat System Administration I (RH124)
+🐳 Docker & Kubernetes
+🔐 Cloud Security Concepts
+```
 
 ---
 
-## 🌐 Languages
-- Sinhala – Native / Professional Proficiency  
-- English – Limited Working Proficiency  
+# 🎮 Cyber Security RPG Level
+
+```
+╔══════════════════════════════╗
+║      CHANMITH SECURITY RPG   ║
+╠══════════════════════════════╣
+║ 🌐 Networking     █████████░ 90% ║
+║ 🐧 Linux          ████████░░ 80% ║
+║ 🔐 Security       ███████░░░ 70% ║
+║ ☁️ Cloud          ██████░░░░ 60% ║
+╚══════════════════════════════╝
+```
+
+**Current Rank:**  
+🏆 Junior Cloud Security Explorer
 
 ---
 
-## 🤝 Connect With Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/chanmith-jayathilake/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30"/>
-  </a>
-  <a href="mailto:chanmithlihaja@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30"/>
-  </a>
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+
 </p>
 
 ---
 
-📌 **Career Goal:**  
-To become a **Network & Security Engineer**, contributing to secure,
-scalable, and resilient IT infrastructures.
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
+
+</p>
+
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night">
+
+</p>
+
+---
+
+# 🌐 Languages
+
+| Language | Proficiency |
+|-|-|
+| 🇱🇰 Sinhala | Native |
+| 🇬🇧 English | Professional Working |
+
+---
+
+# 🤝 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/chanmith-jayathilake/">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
+</a>
+
+<a href="mailto:chanmithlihaja@gmail.com">
+<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40"/>
+</a>
+
+</p>
+
+---
+
+# 🎯 Vision
+
+To become a **Network & Cloud Security Engineer**, building secure,
+scalable, and resilient infrastructures while continuously improving my
+skills in cloud technologies, automation, and cybersecurity.
+
+---
+
+<p align="center">
+
+⭐ Building Today | 🔐 Securing Tomorrow | ☁️ Exploring the Cloud
+
+</p>
