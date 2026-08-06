@@ -254,7 +254,7 @@ Achievements:
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
+<img src="https://raw.githubusercontent.com/chanmithjayathilake/chanmithjayathilake/output/github-contribution-grid-snake.svg">
 
 </p>
 
@@ -264,7 +264,7 @@ Achievements:
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=chanmithjayathilake&theme=tokyo-night">
 
 </p>
 
