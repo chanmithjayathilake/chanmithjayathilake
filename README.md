@@ -253,9 +253,7 @@ Achievements:
 # 🐍 Contribution Snake
 
 <p align="center">
-
 <img src="https://raw.githubusercontent.com/chanmithjayathilake/chanmithjayathilake/output/github-contribution-grid-snake.svg">
-
 </p>
 
 ---
