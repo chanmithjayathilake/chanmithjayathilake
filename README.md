@@ -238,15 +238,7 @@ Achievements:
 
 # 📊 GitHub Analytics
 
-<p align="center">
 
-# <img src="https://github-readme-stats.vercel.app/api?username=chanmithjayathilake&show_icons=true&theme=tokyonight"/>
-
-<br>
-
-# <img src="https://github-readme-streak-stats.herokuapp.com/?user=chanmithjayathilake&theme=tokyonight"/>
-
-</p>
 
 ---
 
