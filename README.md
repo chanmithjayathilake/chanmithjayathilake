@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Network+Engineering+Enthusiast;Cyber+Security+Learner;AWS+Cloud+Explorer;Future+Cloud+Security+Engineer" alt="Animated introduction: networking, cybersecurity, AWS and cloud security" />
 </p>
 
-<p><strong>Cloud-focused undergraduate · Network &amp; IT Support · AWS &amp; Azure Labs</strong></p>
+<p><strong>Cloud-focused undergraduate · Network Security · AWS &amp; Azure Enthusiast </strong></p>
 
 
 
@@ -30,7 +30,7 @@
 
 ### Hello, I'm Chanmith 👋
 
-I'm an undergraduate pursuing a **BSc (Hons) in Ethical Hacking and Network Security** at the **National Institute of Business Management (NIBM), Sri Lanka**. My work and hands-on labs span **AWS, Microsoft Azure, enterprise networking, Windows Server and Linux administration**.
+I'm a 3rd-year undergraduate pursuing a **BSc (Hons) in Ethical Hacking and Network Security** at the **National Institute of Business Management (NIBM), Sri Lanka**. My work and hands-on labs span **AWS, Microsoft Azure, enterprise networking, Windows Server and Linux administration**.
 
 I enjoy building cloud environments that are **secure, resilient, observable and practical to operate**. My recent experience in network and IT support has strengthened my troubleshooting, user administration and incident-handling skills.
 
