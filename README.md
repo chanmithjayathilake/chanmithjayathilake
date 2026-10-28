@@ -10,11 +10,15 @@
 
 <p><strong>Cloud-focused undergraduate · Network &amp; IT Support · AWS &amp; Azure Labs</strong></p>
 
+
 <p>
-  <a href="https://github.com/chanmithjayathilake"><img src="https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
-  <a href="https://www.linkedin.com/in/chanmith-jayathilake/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" /></a>
-  <a href="mailto:chanmithlihaja@gmail.com"><img src="https://img.shields.io/badge/Email-0F766E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Chanmith" /></a>
+  <a href="https://github.com/chanmithjayathilake"><img src="<img src="https://skillicons.dev/icons?i=github" />" alt="GitHub profile" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/chanmith-jayathilake/"><img src="<img src="https://skillicons.dev/icons?i=linkedin" />" alt="LinkedIn profile" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:chanmithlihaja@gmail.com"><img src="<img src="https://skillicons.dev/icons?i=email" />" alt="Email Chanmith" /></a>
 </p>
+
 
 <img src="https://komarev.com/ghpvc/?username=chanmithjayathilake&label=Profile%20Views&color=blue&style=flat" alt="Profile views" />
 
