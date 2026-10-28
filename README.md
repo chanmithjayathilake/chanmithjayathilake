@@ -50,9 +50,11 @@ I enjoy building cloud environments that are **secure, resilient, observable and
 | **Linux & Virtualization** | Linux administration, Apache/Nginx, SELinux, VMware ESXi and Workstation, Cisco Packet Tracer |
 | **IT Operations** | L1/L2 support, endpoint security, incident documentation, service tickets and infrastructure monitoring |
 
-<span>
-  <img src="https://skillicons.dev/icons?i=aws,azure,linux,git,docker" />
-</span>
+<div align="center>
+  <span>
+    <img src="https://skillicons.dev/icons?i=aws,azure,linux,git,docker" />
+  </span>
+</div>
 
 <div align="center">
   <img width="100%" alt="Featured projects - venom capsule" src="https://capsule-render.vercel.app/api?type=venom&color=0:0B1220,50:164E63,100:0E7490&height=160&section=header&text=FEATURED%20PROJECTS&fontSize=31&fontColor=FFFFFF&animation=twinkling" />
