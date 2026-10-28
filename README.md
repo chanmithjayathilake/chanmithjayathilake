@@ -50,16 +50,9 @@ I enjoy building cloud environments that are **secure, resilient, observable and
 | **Linux & Virtualization** | Linux administration, Apache/Nginx, SELinux, VMware ESXi and Workstation, Cisco Packet Tracer |
 | **IT Operations** | L1/L2 support, endpoint security, incident documentation, service tickets and infrastructure monitoring |
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" alt="Linux" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45" alt="Amazon Web Services" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45" alt="Docker" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" alt="Python" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" alt="MySQL" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" alt="JavaScript" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" alt="HTML5" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" alt="CSS3" />
-</p>
+<span>
+  <img src="https://skillicons.dev/icons?i=aws,azure,linux,git,docker" />
+</span>
 
 <div align="center">
   <img width="100%" alt="Featured projects - venom capsule" src="https://capsule-render.vercel.app/api?type=venom&color=0:0B1220,50:164E63,100:0E7490&height=160&section=header&text=FEATURED%20PROJECTS&fontSize=31&fontColor=FFFFFF&animation=twinkling" />
@@ -201,7 +194,7 @@ I enjoy conversations about **AWS, Azure, enterprise networking, secure infrastr
 
 <div align="center">
 
-![Animated footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f766e,100:1d4ed8&height=1110&section=footer)
+![Animated footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f766e,100:1d4ed8&height=110&section=footer)
 
 <sub> Undergraduate • NIBM </sub>
 
