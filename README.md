@@ -11,13 +11,13 @@
 <p><strong>Cloud-focused undergraduate · Network &amp; IT Support · AWS &amp; Azure Labs</strong></p>
 
 
+
 <p>
-  <a href="https://github.com/chanmithjayathilake"><img src="https://skillicons.dev/icons?i=github" alt="GitHub profile" /> </a>
-  
-  <a href="https://www.linkedin.com/in/chanmith-jayathilake/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn profile" /> </a>
-  
-  <a href="mailto:chanmithlihaja@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="LinkedIn profile" /> </a>
+  <a href="https://github.com/chanmithjayathilake"> <img src="https://skillicons.dev/icons?i=github" alt="GitHub" /> </a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/chanmith-jayathilake/"> <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /> </a>&nbsp;&nbsp;
+  <a href="mailto:chanmithlihaja@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" alt="mail" /> </a>
 </p>
+
 
 
 <img src="https://komarev.com/ghpvc/?username=chanmithjayathilake&label=Profile%20Views&color=blue&style=flat" alt="Profile views" />
