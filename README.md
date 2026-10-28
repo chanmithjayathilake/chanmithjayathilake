@@ -1,242 +1,155 @@
-<h1 align="center">Hi 👋, I'm Chanmith Jayathilake</h1>
+<!-- GitHub profile README | Chanmith Jayathilake -->
 
-<h3 align="center">
-🚀 Ethical Hacking & Network Security Undergraduate | 🌐 Network Engineering Enthusiast | ☁️ Cloud Security Learner
-</h3>
+<div align="center">
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Network+Engineering+Enthusiast;Cyber+Security+Learner;AWS+Cloud+Explorer;Future+Cloud+Security+Engineer" />
+<img width="100%" alt="Chanmith Jayathilake - cloud infrastructure and security" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:134E73,100:0891B2&height=250&section=header&text=Chanmith%20Jayathilake&fontColor=FFFFFF&fontSize=48&fontAlignY=39&desc=Cloud%20Infrastructure%20%7C%20Network%20Security&descSize=19&descAlignY=61&animation=fadeIn" />
+
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Network+Engineering+Enthusiast;Cyber+Security+Learner;AWS+Cloud+Explorer;Future+Cloud+Security+Engineer" alt="Animated introduction: networking, cybersecurity, AWS and cloud security" />
 </p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=chanmithjayathilake&label=Profile%20Views&color=blue&style=flat" />
+<p><strong>Cloud-focused undergraduate · Network &amp; IT Support · AWS &amp; Azure Labs</strong></p>
+
+<p>
+  <a href="https://github.com/chanmithjayathilake"><img src="https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
+  <a href="https://www.linkedin.com/in/chanmith-jayathilake/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" /></a>
+  <a href="mailto:chanmithlihaja@gmail.com"><img src="https://img.shields.io/badge/Email-0F766E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Chanmith" /></a>
 </p>
 
----
+<img src="https://komarev.com/ghpvc/?username=chanmithjayathilake&label=Profile%20Views&color=blue&style=flat" alt="Profile views" />
 
-# 👨‍💻 About Me
+</div>
 
-🎓 I am a **second-year undergraduate** pursuing a:
+<div align="center">
+  <img width="100%" alt="About me - blur capsule" src="https://capsule-render.vercel.app/api?type=blur&color=0:0E7490,100:1D4ED8&height=130&section=header&text=ABOUT%20ME&fontSize=34&fontColor=FFFFFF&animation=scaleIn" />
+</div>
 
-**BSc (Hons) in Ethical Hacking and Network Security**  
-🏛️ National Institute of Business Management (NIBM)  
-🎓 Degree awarded by **Coventry University, UK**
+### Hello, I'm Chanmith 👋
 
-I have a strong foundation in:
+I'm an undergraduate pursuing a **BSc (Hons) in Ethical Hacking and Network Security** at the **National Institute of Business Management (NIBM), Sri Lanka**. My work and hands-on labs span **AWS, Microsoft Azure, enterprise networking, Windows Server and Linux administration**.
 
-- 🌐 Network Engineering
-- 🔐 Cyber Security
-- 🖥️ Linux & Server Administration
-- ☁️ Cloud Computing
-- 🏢 Secure Infrastructure Design
+I enjoy building cloud environments that are **secure, resilient, observable and practical to operate**. My recent experience in network and IT support has strengthened my troubleshooting, user administration and incident-handling skills.
 
-I am passionate about designing secure, scalable, and reliable IT infrastructures while continuously improving my knowledge in **cloud computing and cybersecurity**.
+- ☁️ **Current direction:** Cloud support, cloud infrastructure and cloud security engineering
+- 🧪 **Working on:** AWS high-availability patterns, Azure resource governance and identity/security labs
+- 🛡️ **Technical interests:** IAM, network segmentation, infrastructure monitoring, secure administration
+- 🤝 **Open to:** Learning, technical collaboration and early-career cloud/infrastructure opportunities
 
-🎯 Career Goal:
+<div align="center">
+  <img width="100%" alt="Technical skills - pulse capsule" src="https://capsule-render.vercel.app/api?type=pulse&color=0:0B1220,50:155E75,100:0E7490&height=135&section=header&text=TECHNICAL%20TOOLKIT&fontSize=31&fontColor=FFFFFF&animation=fadeIn" />
+</div>
 
-**Network Security Engineer → Cloud Security Engineer**
+### 🛠️ Skills & Technologies
 
----
-
-# 🧠 Core Interests
-
-| Domain | Focus Areas |
-|---|---|
-| 🌐 Networking | Enterprise Networks, Routing, Switching |
-| 🔐 Cyber Security | Ethical Hacking, SIEM, Secure Infrastructure |
-| ☁️ Cloud Computing | AWS, Azure, Cloud Security |
-| 🖥️ System Administration | Linux, Windows Server |
-| 📊 Monitoring | Network Monitoring & Troubleshooting |
-
----
-
-# 🛠️ Technical Skills
-
-## 🌐 Networking & Security
-
-| Technology | Skills |
-|---|---|
-| Cisco Networking | Router & Switch Configuration |
-| Routing | Static Routing, RIP, EIGRP, OSPF |
-| Switching | VLAN, Inter-VLAN Routing, STP, EtherChannel |
-| Security | ACL, NAT, AAA Authentication |
-| Network Services | DHCP, DNS, SSH, Telnet |
-| Addressing | IPv4 & IPv6 |
-| Security Tools | pfSense, Wazuh, SIEM Concepts |
-
----
-
-## 🖥️ Systems Administration
-
-| Platform | Skills |
-|---|---|
-| Linux | CentOS, Ubuntu, Red Hat |
-| Windows Server | Active Directory, DNS, DHCP |
-| Services | Apache, FTP, Web Services |
-| Automation | Bash Scripting, Cron Jobs |
-| Security | SELinux Fundamentals |
-
----
-
-## ☁️ Cloud & Virtualization
-
-| Technology | Knowledge |
-|---|---|
-| AWS | EC2, S3, IAM, VPC, CloudWatch |
-| Azure | Cloud Fundamentals |
-| VMware | ESXi, Workstation |
-| Virtualization | VirtualBox |
-
----
-
-# 🧰 Tools & Technologies
+| Area | Hands-on knowledge and tools |
+| :--- | :--- |
+| **AWS Cloud** | EC2, VPC, IAM, S3, ALB, Auto Scaling, CloudWatch, SNS, Systems Manager (SSM), KMS, AWS Budgets |
+| **Microsoft Azure** | Azure VMs, Microsoft Entra ID, RBAC, Network Security Groups, Blob Storage, Resource Groups, Azure CLI, Cloud Shell |
+| **Networking & Security** | TCP/IP, VLANs, inter-VLAN routing, ACLs, NAT, HSRP, EtherChannel, OSPF/EIGRP, pfSense, troubleshooting |
+| **Windows & Microsoft 365** | Windows Server, Active Directory, Group Policy, DNS, DHCP, user/group administration, Microsoft 365 |
+| **Linux & Virtualization** | Linux administration, Apache/Nginx, SELinux, VMware ESXi and Workstation, Cisco Packet Tracer |
+| **IT Operations** | L1/L2 support, endpoint security, incident documentation, service tickets and infrastructure monitoring |
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45"/>
-
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" alt="Linux" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45" alt="Amazon Web Services" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45" alt="Docker" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" alt="Python" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" alt="MySQL" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" alt="JavaScript" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" alt="HTML5" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" alt="CSS3" />
 </p>
 
----
+<div align="center">
+  <img width="100%" alt="Featured projects - venom capsule" src="https://capsule-render.vercel.app/api?type=venom&color=0:0B1220,50:164E63,100:0E7490&height=160&section=header&text=FEATURED%20PROJECTS&fontSize=31&fontColor=FFFFFF&animation=twinkling" />
+</div>
 
-# 🚀 Career Roadmap
+### ☁️ 01 · Highly Available AWS Web Infrastructure — MRS Company
 
-```
-Networking Fundamentals
-          |
-          ↓
-Linux & Server Administration
-          |
-          ↓
-Cyber Security & Ethical Hacking
-          |
-          ↓
-AWS / Azure Cloud Technologies
-          |
-          ↓
-Cloud Security Engineer ☁️🔐
-```
+**Personal cloud project | September–October 2026**
 
----
+> Designed a highly available web infrastructure on AWS, emphasizing network isolation, elasticity, secure operations and monitoring.
 
-# 📂 Featured Projects
+**Architecture and work completed:**
 
-## 🔹 Enterprise Network Infrastructure Design
+- Designed a custom **VPC with public and private subnets across two Availability Zones**.
+- Deployed **EC2 web servers** behind an **Application Load Balancer**, with **Auto Scaling** for instance recovery.
+- Used **security groups, IAM roles and AWS Systems Manager** to manage access and instances securely.
+- Configured **CloudWatch dashboards** and **SNS email alerts** for operational visibility.
+- Simulated infrastructure failures and documented recovery, troubleshooting and security testing.
 
-**Role:** Project Leader
+**Stack:** `AWS VPC` · `EC2` · `ALB` · `Auto Scaling` · `IAM` · `SSM` · `CloudWatch` · `SNS`
 
-Technologies:
+**[Explore the AWS cloud project →](https://github.com/chanmithjayathilake/highly-available-aws-web-infrastructure/)**
 
-```
-Cisco Routers & Switches
-pfSense Firewall
-VLAN Architecture
-Routing Protocols
-Network Security
-```
+### 🌐 02 · Visual Architect Company — Network Infrastructure Rebuild
 
-Highlights:
+**Project leader | Diploma in Network Engineering | October–November 2024**
 
-✅ Designed secure enterprise network infrastructure  
-✅ Implemented routing and switching solutions  
-✅ Focused on availability and security  
-✅ Created structured network documentation  
+- Led a team through requirements gathering, network design and implementation.
+- Planned and simulated the topology in **Cisco Packet Tracer** before deploying to physical equipment.
+- Worked with **Cisco Catalyst 2960/3560 switches and a Cisco 1941 router**, implementing VLANs, trunking, inter-VLAN routing, ACLs, NAT, HSRP, EtherChannel and OSPF/EIGRP.
 
----
+**[View the network engineering project →](https://github.com/chanmithjayathilake/Final-Project)**
 
-## 🔹 IoT-Based Military Camp Monitoring System
+### 📡 03 · IoT-Based Military Camp Network
 
-**Role:** Project Leader
+**Project leader | Higher National Diploma in Network Engineering | September–October 2025**
 
-Highlights:
+- Designed an IoT-oriented network solution for a military camp scenario as part of HND coursework.
+- Focused on network architecture, connectivity and secure communications in the proposed environment.
 
-✅ Designed IoT-based monitoring infrastructure  
-✅ Applied security concepts  
-✅ Improved communication reliability  
-✅ Focused on scalable architecture  
+### 🔷 04 · Microsoft Azure Administration Labs
+
+**Hands-on cloud administration work**
+
+| Lab | What I practiced |
+| :--- | :--- |
+| **Compute & Hosting** | Deploying Azure Virtual Machines and hosting a static website with Blob Storage |
+| **Identity & Access** | Managing users in Microsoft Entra ID and permissions with Azure RBAC |
+| **Network Security** | Applying Network Security Group rules and exploring traffic filtering |
+| **Governance** | Organizing Resource Groups, adding resource tags and applying resource locks |
+| **Administration** | Managing resources through Azure CLI and Azure Cloud Shell |
 
 ---
 
-# ☁️ Cloud Security Lab (Learning Project)
+### 💼 Professional Experience
 
-Currently exploring:
+**Network & IT Support Engineer Intern** · Cyrus Information Technologies (Pvt) Ltd, Wellawatte  
+*February–July 2026*
 
-```
-AWS VPC
-    |
-IAM Security
-    |
-EC2 Deployment
-    |
-Security Groups
-    |
-Cloud Monitoring
-    |
-Cloud Security Practices
-```
+- Delivered L1/L2 support for endpoints, servers, printers, network devices, CCTV systems and operating systems.
+- Administered Microsoft 365, Active Directory users and permissions, and Group Policy in Windows environments.
+- Supported Bitdefender endpoint security, incident records and IT service ticket handling.
 
----
+### 🎓 Education
 
-# 🌱 Leadership Experience
+| Qualification | Institution | Period |
+| :--- | :--- | :--- |
+| **BSc (Hons) Ethical Hacking and Network Security** (part-time) | NIBM | 2026–Present |
+| **Diploma in Cloud Computing & Security — Azure** (part-time) | NextGen Campus | 2026–Present |
+| **Higher National Diploma in Network Engineering** | NIBM | 2025–2026 |
+| **Certificate in Network Engineering** | NIBM | 2023–2024 |
 
-## CSR Project – Mada Thawaruna Mal Kakulu (2025)
+### 🏅 Credentials & Ongoing Learning
 
-**Project Chairperson | Leo Club of NIBM**
+- **AWS Practitioner Essentials** — completion certificate (September 2026)
+- **ISO/IEC 27001:2022 Information Security Associate™** — September 2026
+- **AWS Cloud Practitioner exam topics** — self-study through W3Schools (September 2026)
+- **Microsoft Azure Fundamentals (AZ-900)** — in progress
+- **Cisco Network Security** — in progress
 
-Achievements:
+### 🤝 Leadership & Community
 
-✅ Led flood-relief initiative for 18 school students  
-✅ Managed planning and execution  
-✅ Handled LKR 94,000 project budget  
-✅ Maintained transparent documentation  
+**Project Chairperson · Mada Thawaruna Mal Kakulu (December 2025)**  
+Leo Club of NIBM · Liyanakanda Vidyalaya, Kalawana
 
----
-
-# 📚 Currently Learning
-
-```
-☁ AWS Cloud Practitioner
-☁ Microsoft Azure Fundamentals
-🔴 Red Hat System Administration I (RH124)
-🐳 Docker & Kubernetes
-🔐 Cloud Security Concepts
-```
+Led a community-support initiative focused on students' educational recovery, psychological well-being and morale after flooding. The project supported **18 school students** and managed a budget of **LKR 94,000**.
 
 ---
 
-# 🎮 Cyber Security RPG Level
-
-```
-╔══════════════════════════════╗
-║      CHANMITH SECURITY RPG   ║
-╠══════════════════════════════╣
-║ 🌐 Networking     █████████░ 90% ║
-║ 🐧 Linux          ████████░░ 80% ║
-║ 🔐 Security       ███████░░░ 70% ║
-║ ☁️ Cloud          ██████░░░░ 60% ║
-╚══════════════════════════════╝
-```
-
-**Current Rank:**  
-🏆 Junior Cloud Security Explorer
-
----
-
-# 📊 GitHub Analytics
+### 📊 GitHub Analytics
 
 <p align="center">
 
@@ -246,7 +159,7 @@ Achievements:
 
 ---
 
-# 🐍 Contribution Snake
+### 🐍 Contribution Snake
 
 <p align="center">
   <picture>
@@ -257,7 +170,7 @@ Achievements:
 
 ---
 
-# 📈 Contribution Activity
+### 📈 Contribution Activity
 
 <p align="center">
 
@@ -267,46 +180,24 @@ Achievements:
 
 ---
 
-# 🌐 Languages
+### 🌐 Languages
 
 | Language | Proficiency |
-|-|-|
+| :--- | :--- |
 | 🇱🇰 Sinhala | Native |
-| 🇬🇧 English | Professional Working |
+| 🇬🇧 English | Professional working proficiency |
 
----
+### 📬 Let's Connect
 
-# 🤝 Connect With Me
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/chanmith-jayathilake/">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
-</a>
-
-<a href="mailto:chanmithlihaja@gmail.com">
-<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40"/>
-</a>
-
-</p>
-
----
-
-# 🎯 Vision
-
-To become a **Network & Cloud Security Engineer**, building secure,
-scalable, and resilient infrastructures while continuously improving my
-skills in cloud technologies, automation, and cybersecurity.
-
----
+I enjoy conversations about **AWS, Azure, enterprise networking, secure infrastructure and cloud operations**. Feel free to connect about projects, technical ideas or opportunities.
 
 <p align="center">
-
-⭐ Building Today | 🔐 Securing Tomorrow | ☁️ Exploring the Cloud
-
+  <a href="https://www.linkedin.com/in/chanmith-jayathilake/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" alt="LinkedIn" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:chanmithlihaja@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" alt="Email" /></a>
 </p>
 
----
+<p align="center"><em>Building reliable infrastructure. Learning continuously. Securing what matters.</em></p>
 
 <div align="center">
 
@@ -315,4 +206,3 @@ skills in cloud technologies, automation, and cybersecurity.
 <sub> Undergraduate • NIBM </sub>
 
 </div>
-
