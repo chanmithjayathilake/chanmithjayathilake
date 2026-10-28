@@ -208,6 +208,6 @@ I enjoy conversations about **AWS, Azure, enterprise networking, secure infrastr
 
 ![Animated footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f766e,100:1d4ed8&height=110&section=footer)
 
-<sub> Undergraduate • NIBM </sub>
+<sub> AWS | Azure | Linux | Networking | Security </sub>
 
 </div>
