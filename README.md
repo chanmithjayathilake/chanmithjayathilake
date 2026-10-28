@@ -51,7 +51,11 @@ I enjoy building cloud environments that are **secure, resilient, observable and
 | **IT Operations** | L1/L2 support, endpoint security, incident documentation, service tickets and infrastructure monitoring |
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=aws,azure,linux,git,docker" />
+    <img src="https://skillicons.dev/icons?i=aws" /> &nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=azure" /> &nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=linux" /> &nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=git" /> &nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=docker" />
 </div>
 
 <div align="center">
