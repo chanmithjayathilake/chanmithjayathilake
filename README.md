@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Network+Engineering+Enthusiast;Cyber+Security+Learner;AWS+Cloud+Explorer;Future+Cloud+Security+Engineer" alt="Animated introduction: networking, cybersecurity, AWS and cloud security" />
 </p>
 
-<p><strong>Cloud-focused undergraduate · Network Security · AWS &amp; Azure Enthusiast </strong></p>
+<p><strong>Cloud-focused Undergraduate · Network Security · AWS &amp; Azure Enthusiast </strong></p>
 
 
 
