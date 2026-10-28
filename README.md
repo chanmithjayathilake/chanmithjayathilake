@@ -50,10 +50,8 @@ I enjoy building cloud environments that are **secure, resilient, observable and
 | **Linux & Virtualization** | Linux administration, Apache/Nginx, SELinux, VMware ESXi and Workstation, Cisco Packet Tracer |
 | **IT Operations** | L1/L2 support, endpoint security, incident documentation, service tickets and infrastructure monitoring |
 
-<div align="center>
-  <span>
+<div align="center">
     <img src="https://skillicons.dev/icons?i=aws,azure,linux,git,docker" />
-  </span>
 </div>
 
 <div align="center">
