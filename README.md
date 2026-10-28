@@ -185,9 +185,9 @@ Led a community-support initiative focused on students' educational recovery, ps
 I enjoy conversations about **AWS, Azure, enterprise networking, secure infrastructure and cloud operations**. Feel free to connect about projects, technical ideas or opportunities.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/chanmith-jayathilake/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/chanmith-jayathilake/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="mailto:chanmithlihaja@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" alt="Email" /></a>
+  <a href="mailto:chanmithlihaja@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" /></a>
 </p>
 
 <p align="center"><em>Building reliable infrastructure. Learning continuously. Securing what matters.</em></p>
