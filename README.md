@@ -12,11 +12,11 @@
 
 
 <p>
-  <a href="https://github.com/chanmithjayathilake"><img src="https://skillicons.dev/icons?i=github" "alt="GitHub profile" /> </a> &nbsp;&nbsp;&nbsp;
- 
-  <a href="https://www.linkedin.com/in/chanmith-jayathilake/"><img src="https://skillicons.dev/icons?i=linkedin" "alt="LinkedIn profile" /> </a> &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/chanmithjayathilake"><img src="https://skillicons.dev/icons?i=github" alt="GitHub profile" /> </a>&nbsp;&nbsp;&nbsp;
   
-  <a href="mailto:chanmithlihaja@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" "alt="LinkedIn profile" /> </a>
+  <a href="https://www.linkedin.com/in/chanmith-jayathilake/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn profile" /> </a>&nbsp;&nbsp;&nbsp;
+  
+  <a href="mailto:chanmithlihaja@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="LinkedIn profile" /> </a>
 </p>
 
 
